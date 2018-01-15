@@ -6,7 +6,7 @@ public class main {
 		Scanner inp = new Scanner(System.in);
 		// TODO Auto-generated method stub
 		String user =inp.nextLine();
-		System.out.println(user);
+		System.out.println("hi");
 	}
 
 }
